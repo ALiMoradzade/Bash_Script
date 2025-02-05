@@ -1,0 +1,22 @@
+mkdir 'folder_name'
+make directory of folder_name
+
+mkdir -p 'address'
+make directory parent of address like multiple folders
+
+cd 'address'
+change directory to address
+
+cd ..
+goes back to previous folder one time
+
+cd ../..
+cd ..//..
+goes back two times (bash considers // as /)
+
+touch 'file_name.ex'
+creates file (don't forget file name extension)
+
+nano 'file_name.ex'
+vim 'file_name.ex'
+creates file if it doesn't exit then open it to edit

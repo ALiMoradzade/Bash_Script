@@ -1,0 +1,14 @@
+$SHELL
+the shell name using in default
+
+$BASH_VERSION
+version of default shell
+
+$HOME
+gives address of "/home/$USER"
+
+$USER
+gives user name of os
+
+$PWD
+Print Working Directory gives current address that interpreter uses

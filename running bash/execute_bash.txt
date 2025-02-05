@@ -1,0 +1,9 @@
+1)
+bash file_name.sh
+calls bash to run file
+
+2)
+chmod +x file_name.sh
+give permission to file then run it, otherwise gives error
+./file_name.sh
+runs file with default shell
