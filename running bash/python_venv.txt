@@ -1,0 +1,5 @@
+sudo apt install pthon3-venv
+cd [address]
+sudo python3.12 -m venv "venv"
+source "venv/bin/activate"
+pip install [package]
